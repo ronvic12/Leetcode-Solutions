@@ -2,14 +2,12 @@ class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         
 
-        n = len(nums)
-        double_n = n * 2
-        ans = [0] * (double_n)
+        ans = [0] * (len(nums) * 2)
 
 
-        for i in range(n):
+        for i in range(len(nums)):
             ans[i] = nums[i]
-            ans[i + n] = nums[i]
+            ans[i + len(nums)] = nums[i]
         
         return ans
 
