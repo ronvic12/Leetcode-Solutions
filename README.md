@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ronvic12/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ronvic12/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ronvic12/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
